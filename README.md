@@ -16,7 +16,7 @@
 
 I'm a **Cybersecurity Analyst** based in Rabat, Morocco, passionate about **threat detection, SOC operations, and security automation**. Currently pursuing a Bachelor's degree in Computer Engineering at Université Internationale de Rabat while working as IT Support N1/N2 at Konica Minolta (Sitel).
 
-My focus is on building hands-on skills in **SIEM platforms (Wazuh, Splunk)**, **network security**, and **incident response**. I'm exploring the intersection of **AI and cybersecurity** to automate alert triage and threat hunting workflows.
+My focus is on building hands-on skills in **SIEM platforms (Wazuh, Splunk)**, **network security**, and **incident response**. I'm currently building expertise in SIEM operations, threat detection engineering, and security automation to advance toward a SOC Analyst role.
 
 🎓 Cisco Certified Associate in Cyber Threat Management
 🌍 French (Native) | English (Fluent) | Arabic (Native)
@@ -72,10 +72,10 @@ Personal portfolio showcasing cybersecurity projects, certifications, and profes
 
 ## 📚 Currently Learning
 
-- 🤖 AI-Powered SOC Automation (LLM-based alert triage)
 - 🛡️ Advanced Threat Hunting techniques
 - 📊 MITRE ATT&CK framework deep dive
 - 🏆 Working toward CompTIA Security+ certification
+- 🐍 Python for security automation
 
 ---
 

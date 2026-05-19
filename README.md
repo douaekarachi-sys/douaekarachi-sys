@@ -95,7 +95,7 @@ Personal portfolio showcasing cybersecurity projects, certifications, and profes
 
 I'm always interested in discussing cybersecurity, SOC operations, and the future of AI-driven threat detection. Feel free to reach out:
 
-- 💼 **LinkedIn**: [linkedin.com/in/douae-karachi](https://linkedin.com/in/douae-karachi)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/douae-karachi-2a93372b5/
 - 🌐 **Portfolio**: [cspjcts.pages.dev](https://cspjcts.pages.dev/)
 - 📧 **Email**: douaekarachi@gmail.com
 - 📍 **Location**: Rabat, Morocco

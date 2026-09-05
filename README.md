@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a **Cybersecurity Analyst** based in Rabat, Morocco, passionate about **threat detection, SOC operations, and security automation**. Currently pursuing a Bachelor's degree in Computer Engineering at Université Internationale de Rabat while working as IT Support N1/N2 at Konica Minolta (Sitel).
+I'm a **Cybersecurity Analyst** based in Rabat, Morocco, passionate about **threat detection, SOC operations, and security automation**.
 
 My focus is on building hands-on skills in **SIEM platforms (Wazuh, Splunk)**, **network security**, and **incident response**. I'm currently building expertise in SIEM operations, threat detection engineering, and security automation to advance toward a SOC Analyst role.
 
